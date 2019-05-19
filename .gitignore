@@ -23,3 +23,6 @@ yarn-error.log*
 
 # editor files
 .vscode
+
+# coverage
+.nyc_output
