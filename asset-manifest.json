@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e829653b.chunk.css",
-    "main.js": "/static/js/main.46cd860c.chunk.js",
-    "main.js.map": "/static/js/main.46cd860c.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.68ddf8c0.chunk.js": "/static/js/2.68ddf8c0.chunk.js",
-    "static/js/2.68ddf8c0.chunk.js.map": "/static/js/2.68ddf8c0.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.cead8e8d7c94c804d382880d4ae76bcc.js": "/precache-manifest.cead8e8d7c94c804d382880d4ae76bcc.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.e829653b.chunk.css.map": "/static/css/main.e829653b.chunk.css.map"
+    "main.css": "/react-router-app/static/css/main.e829653b.chunk.css",
+    "main.js": "/react-router-app/static/js/main.ebcb3280.chunk.js",
+    "main.js.map": "/react-router-app/static/js/main.ebcb3280.chunk.js.map",
+    "runtime~main.js": "/react-router-app/static/js/runtime~main.1f157a88.js",
+    "runtime~main.js.map": "/react-router-app/static/js/runtime~main.1f157a88.js.map",
+    "static/js/2.68ddf8c0.chunk.js": "/react-router-app/static/js/2.68ddf8c0.chunk.js",
+    "static/js/2.68ddf8c0.chunk.js.map": "/react-router-app/static/js/2.68ddf8c0.chunk.js.map",
+    "index.html": "/react-router-app/index.html",
+    "precache-manifest.6728f147eccc536b597b350d4df14f90.js": "/react-router-app/precache-manifest.6728f147eccc536b597b350d4df14f90.js",
+    "service-worker.js": "/react-router-app/service-worker.js",
+    "static/css/main.e829653b.chunk.css.map": "/react-router-app/static/css/main.e829653b.chunk.css.map"
   }
 }
