@@ -2,7 +2,7 @@
   "name": "react-router-app",
   "version": "1.0.0",
   "private": true,
-  "homepage": "http://devvratshukla.github.io/react-router-app",
+  "homepage": "https://devvratshukla.github.io/react-router-app/",
   "dependencies": {
     "query-string": "^6.5.0",
     "react": "^16.8.6",
